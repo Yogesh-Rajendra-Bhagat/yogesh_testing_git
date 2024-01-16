@@ -1,78 +1,3 @@
-   44  git add abc
-   45  git status
-   46  git add .
-   47  git commit -m "this is my first commit"
-   48  history
-   49  git branch -M testBranch
-   50  git status
-   51  git remote add orgin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   52  git push -u origin testBranch
-   53  it remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test2.git
-   54  git remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test2.git
-   55  git push -u origin testBranch
-   56  git remote add orgin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   57  git remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   58  git push -u 
-   59  git push -u origin testBranch
-   60  git branch -M branchtotest
-   61  git push -u origin branchtotest
-   62  git init
-   63  git status
-   64  git commit -m "test"
-   65  git branch -M new 
-   66  git remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   67  git remote add data https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   68  git push -u data new
-   69  history
-   70  history |tail -30
-   71  history |tail -30 >> history
-   72  clear
-   73  history | tail -30 >> history
-   39  pwd
-   40  touch abc
-   41  touch pqr xyz
-   42  git init
-   43  git status
-   44  git add abc
-   45  git status
-   46  git add .
-   47  git commit -m "this is my first commit"
-   48  history
-   49  git branch -M testBranch
-   50  git status
-   51  git remote add orgin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   52  git push -u origin testBranch
-   53  it remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test2.git
-   54  git remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test2.git
-   55  git push -u origin testBranch
-   56  git remote add orgin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   57  git remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   58  git push -u 
-   59  git push -u origin testBranch
-   60  git branch -M branchtotest
-   61  git push -u origin branchtotest
-   62  git init
-   63  git status
-   64  git commit -m "test"
-   65  git branch -M new 
-   66  git remote add origin https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   67  git remote add data https://github.com/Yogesh-Rajendra-Bhagat/test_repo123.git
-   68  git push -u data new
-   69  history
-   70  history |tail -30
-   71  history |tail -30 >> history
-   72  clear
-   73  history | tail -30 >> history
-   74  git ststus
-   75  git status
-   76  git branch -M Yogesh_Bhagat
-   77  git status
-   78  git remote add origin https://github.com/Yogesh-Rajendra-Bhagat/yogesh_testing_git.git
-   79  git push -u origin Yogesh Bhagat
-   80  git push -u origin Yogesh_Bhagat
-   81  git push -u data Yogesh_Bhagat
-   82  clear
-   83  history | tail -45 >> history
     1  git push
     2  git clone https://github.com/Bhagatyogesh/abc-organization.git
     3  git clone https://github.com/Bhagatyogesh/abc-organization.git
@@ -204,3 +129,8 @@
   129  ls
   130  clear
   131  history >> history
+  132  cat history
+  133  git add .
+  134  git commit -m "this is commit"
+  135  git push -u origin Yogesh_Bhagat
+  136  history >history
