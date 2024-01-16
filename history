@@ -92,7 +92,7 @@
    92  git commit -m "commit to add history"
    93  git push -u qwerty Yogesh_Bhagat]
    94  git push -u qwerty Yogesh_Bhagat
-   95  "Beyond Basics: Advanced Git Tips for Remote File Management"
+   
    96  clear
    97  git push -u data Yogesh_Bhagat
    98  cd ..
@@ -119,8 +119,7 @@
   119  ps | top -5
   120  ps
   121  clear 
-  122  git clone "Beyond Basics: Advanced Git Tips for Remote File Management"
-  123  "Efficient Remote Collaboration: Git Advanced Remote File Operations"clear
+  
   124  clear
   125  clear
   126  git clone https://github.com/Yogesh-Rajendra-Bhagat/yogesh_testing_git.git
