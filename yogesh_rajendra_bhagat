@@ -2,40 +2,40 @@
     2  git clone https://github.com/Bhagatyogesh/abc-organization.git
     3  git clone https://github.com/Bhagatyogesh/abc-organization.git
     4  cls
-    5  git clone https://github.com/Bhagatyogesh/wipro.git
-    6  git clone https://github.com/Bhagatyogesh/wipro.git/wipro
-    7  echo "# wipro" >> README.md
-    8  echo "# wipro" >> README.md
+    5  git clone https://github.com/Bhagatyogesh/know_basics.git
+    6  git clone https://github.com/Bhagatyogesh/know_basics.git/know_basics
+    7  echo "# know_basics" >> README.md
+    8  echo "# know_basics" >> README.md
     9  git init
    10  git add readme.md
    11  git commit -m 'first commit'
-   12  echo "# wipro" >> README.md
+   12  echo "# know_basics" >> README.md
    13  git init
    14  git add README.md
    15  git commit -m "first commit"
    16  git branch -M main
-   17  git remote add origin https://github.com/Bhagatyogesh/wipro.git
+   17  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
    18  git push -u origin main
-   19  git remote add origin https://github.com/Bhagatyogesh/wipro.git
-   20  git remote add origin https://github.com/Bhagatyogesh/wipro.git
-   21  git remote add origin https://github.com/Bhagatyogesh/wipro.git
-   22  git remote add origin https://github.com/Bhagatyogesh/wipro.git/wipro
-   23  git remote add origin https://github.com/Bhagatyogesh/wipro
-   24  git remote add origin https://github.com/Bhagatyogesh/wipro.git
+   19  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
+   20  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
+   21  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
+   22  git remote add origin https://github.com/Bhagatyogesh/know_basics.git/know_basics
+   23  git remote add origin https://github.com/Bhagatyogesh/know_basics
+   24  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
    25  git branch -M main
-   26  git remote add origin https://github.com/Bhagatyogesh/wipro.git
-   27  git remote add origin E:\wipro
-   28  git remote add origin https://github.com/Bhagatyogesh/wipro.git
-   29  git remote add origin https://github.com/Bhagatyogesh/wipro1.git
-   30  git remote add origin https://github.com/Bhagatyogesh/wipro1.git
-   31  git remote add origin https://github.com/Bhagatyogesh/Wipro.git
+   26  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
+   27  git remote add origin E:\know_basics
+   28  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
+   29  git remote add origin https://github.com/Bhagatyogesh/know_basics1.git
+   30  git remote add origin https://github.com/Bhagatyogesh/know_basics1.git
+   31  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
    32  git remote add origin https://github.com/Bhagatyogesh/abc.git
-   33  git remote add origin https://github.com/Bhagatyogesh/wipro.git
-   34  git remote add origin https://github.com/Bhagatyogesh/wipro1.git
-   35  git remote add origin https://github.com/Bhagatyogesh/wipro.git
+   33  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
+   34  git remote add origin https://github.com/Bhagatyogesh/know_basics1.git
+   35  git remote add origin https://github.com/Bhagatyogesh/know_basics.git
    36  git branch -M main
    37  git push -u origin main
-   38  git remote add origin https://github.com/Bhagatyogesh/wipro1.git
+   38  git remote add origin https://github.com/Bhagatyogesh/know_basics1.git
    39  pwd
    40  ls
    41  history
